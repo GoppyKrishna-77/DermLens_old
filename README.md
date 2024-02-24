@@ -5,7 +5,8 @@ diseases
 # Team Members : 
 1. S. Syed Masood (AI Engineer) 
 2. D. Suryaa (Web Developer)
-3. V V. Velvizhi (Web Developer) 
+3. V V. Velvizhi (Web Developer)
+
 **4. M. GoppyKrishna (Mobile App Developer and Backend Developer)**
 5. N. Vishwa (UI/UX Engineer)
 6. P. Saicharan (Data Analyst)
